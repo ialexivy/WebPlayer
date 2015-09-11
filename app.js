@@ -55,7 +55,3 @@ function generateYoutubeObjectURL(videoId, listId) {
 
     return video;
 }
-
-
-
-
